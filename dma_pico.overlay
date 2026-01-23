@@ -1,0 +1,11 @@
+
+
+&dma {
+	status="okay";
+};
+
+/*
+&adc {
+	status="okay";
+};
+*/
